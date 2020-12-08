@@ -2,7 +2,7 @@
 
 ## About
 The Ship Mate mobile app was designed to take cruise travel comfort to another level. When planning the cruise, users can search for the perfect itinerary among more than 100K options using cruise finder. It stays in the same row with Facebook by complexity.
-</br>⚠️ Don't try to clone and run it.
+</br>⚠️ Don't try to clone and run it. To introduce the rich experience and solid skill in social media App development(Swift, Python).
 
 ## Screenshots
 ![Admin screen demo](/readme/1.jpg)  
